@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "diffEditor.codeLens": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false
+}

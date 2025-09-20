@@ -1,0 +1,1 @@
+<h1>Ini adalah nis saya <?=$nis?> serta nama saya <?=$nama?></h1>
